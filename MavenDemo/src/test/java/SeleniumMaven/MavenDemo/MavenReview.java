@@ -18,5 +18,10 @@ public class MavenReview {
 	public void mavenMethodThree() {
 		System.out.println("Printing mavenMethodThree ");
 	}
+	
+	@Test
+	public void mavenMethodFour() {
+		System.out.println("Printing mavenMethodFour ");
+	}
 
 }
