@@ -6,6 +6,7 @@
       <class name="SeleniumMaven.MavenDemo.MavenReviewTwo"/>
       <class name="SeleniumMaven.MavenDemo.MavenReviewThree"/>
       <class name="SeleniumMaven.MavenDemo.MavenReviewFour"/>
+      <class name="SeleniumMaven.MavenDemo.FirefoxTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
